@@ -4,7 +4,7 @@
 
 ## Preview
 
-![Screenshot]
+
 ![alt text](screenshots/total-clean.png "Total Clean v1.0")
 ## How to use?
 
