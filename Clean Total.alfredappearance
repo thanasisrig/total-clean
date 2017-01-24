@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 13,
+        "colorSelected" : "#000000C4",
+        "font" : "System",
+        "color" : "#27272765"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#29292AFF",
+        "font" : "System",
+        "color" : "#6A6C69FF"
+      },
+      "backgroundSelected" : "#F4F9FFFF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#232323FF",
+        "font" : "System",
+        "color" : "#4F5254E5"
+      },
+      "iconPaddingHorizontal" : 12,
+      "paddingVertical" : 10,
+      "iconSize" : 45
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#FEFFFE00",
+      "spacing" : 8,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#00030DFF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#FDFCFFC6",
+      "paddingHorizontal" : 10,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 40,
+      "roundness" : 1,
+      "paddingVertical" : 8
+    },
+    "credit" : "Thanasis",
+    "separator" : {
+      "color" : "#0000000F",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#000000FF",
+      "thickness" : 2
+    },
+    "name" : "Clean Total"
+  }
+}
