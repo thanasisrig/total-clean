@@ -4,7 +4,7 @@
 
 ## Preview
 
-![Screenshot](https://github.com/thanasisrig/total-clean/master/Screenshot.png)
+![Screenshot](http://github.com/thanasisrig/total-clean/Screenshot.png)
 
 ## How to use?
 
