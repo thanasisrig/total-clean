@@ -4,8 +4,8 @@
 
 ## Preview
 
-![Screenshot](http://github.com/thanasisrig/total-clean/Screenshot.png)
-
+![Screenshot]
+![alt text](screenshots/total-clean.png "Total Clean v1.0")
 ## How to use?
 
 1. Download:
