@@ -21,14 +21,14 @@
         "font" : "System",
         "color" : "#4F5254E5"
       },
-      "iconPaddingHorizontal" : 12,
+      "iconPaddingHorizontal" : 10,
       "paddingVertical" : 10,
-      "iconSize" : 45
+      "iconSize" : 40
     },
     "search" : {
       "paddingVertical" : 0,
       "background" : "#FEFFFE00",
-      "spacing" : 8,
+      "spacing" : 10,
       "text" : {
         "size" : 34,
         "colorSelected" : "#000000FF",
@@ -43,9 +43,9 @@
       "width" : 559,
       "borderPadding" : 0,
       "borderColor" : "#0000007F",
-      "blur" : 40,
+      "blur" : 36,
       "roundness" : 1,
-      "paddingVertical" : 8
+      "paddingVertical" : 10
     },
     "credit" : "Thanasis",
     "separator" : {
@@ -54,7 +54,7 @@
     },
     "scrollbar" : {
       "color" : "#000000FF",
-      "thickness" : 2
+      "thickness" : 1
     },
     "name" : "Clean Total"
   }
