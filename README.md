@@ -6,6 +6,7 @@
 
 ![alt text](screenshots/total-clean2.png "Total Clean v1.0")
 ![alt text](screenshots/total-clean.png "Total Clean v1.0")
+![alt text](screenshots/total-clean3.png "Total Clean v1.0")
 ## How to use?
 
 1. Download:
