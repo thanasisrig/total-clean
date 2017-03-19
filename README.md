@@ -11,7 +11,7 @@
 
 1. Download:
 
-	```
+	
 $ git clone https://github.com/thanasisrig/total-clean.git
 	```
 
