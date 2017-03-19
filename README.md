@@ -11,15 +11,15 @@
 
 1. Download:
 
-	
-$ git clone https://github.com/thanasisrig/total-clean.git
-	```
+
+  *  $ git clone https://github.com/thanasisrig/total-clean.git
+
 
 2. Apply:
 
 	* Double-click on `Total Clean.alfredappearance`
 
-> Stay tuned Total Clean is coming to [Atom](https://atom.io).
+> Download Total Clean for [ZSH](http://zsh.org).
 
 
 
