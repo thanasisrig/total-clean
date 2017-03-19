@@ -17,9 +17,9 @@
 
 2. Apply:
 
-	* Double-click on `Total Clean.alfredappearance`
+	*  Double-click on `Total Clean.alfredappearance`
 
-> Download Total Clean for [ZSH](http://zsh.org).
+> Download [Total Clean](https://github.com/thanasisrig/total-clean-zsh) for [ZSH](http://zsh.org).
 
 
 
