@@ -5,7 +5,7 @@
       "subtext" : {
         "size" : 13,
         "colorSelected" : "#000000C4",
-        "font" : "System",
+        "font" : "Helvetica Neue",
         "color" : "#27272765"
       },
       "shortcut" : {
@@ -18,7 +18,7 @@
       "text" : {
         "size" : 16,
         "colorSelected" : "#232323FF",
-        "font" : "System",
+        "font" : "Helvetica Neue Light",
         "color" : "#4F5254E5"
       },
       "iconPaddingHorizontal" : 12,
@@ -32,7 +32,7 @@
       "text" : {
         "size" : 34,
         "colorSelected" : "#000000FF",
-        "font" : "System Light",
+        "font" : "Helvetica Neue Light",
         "color" : "#00030DFF"
       },
       "backgroundSelected" : "#B2D7FFFF"
