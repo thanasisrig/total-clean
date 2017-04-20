@@ -38,7 +38,7 @@
       "backgroundSelected" : "#B2D7FFFF"
     },
     "window" : {
-      "color" : "#E4EAFFD2",
+      "color" : "#FEFFFEBF",
       "paddingHorizontal" : 10,
       "width" : 559,
       "borderPadding" : 0,
