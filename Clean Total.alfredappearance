@@ -14,7 +14,7 @@
         "font" : "System",
         "color" : "#6A6C69FF"
       },
-      "backgroundSelected" : "#F3F6FF98",
+      "backgroundSelected" : "#F4F9FFFF",
       "text" : {
         "size" : 16,
         "colorSelected" : "#232323FF",
@@ -22,7 +22,7 @@
         "color" : "#4F5254E5"
       },
       "iconPaddingHorizontal" : 10,
-      "paddingVertical" : 13,
+      "paddingVertical" : 10,
       "iconSize" : 40
     },
     "search" : {
@@ -38,13 +38,13 @@
       "backgroundSelected" : "#B2D7FFFF"
     },
     "window" : {
-      "color" : "#FEFFFEBF",
+      "color" : "#FDFCFFC6",
       "paddingHorizontal" : 10,
       "width" : 559,
       "borderPadding" : 0,
-      "borderColor" : "#827AEA7F",
-      "blur" : 36,
-      "roundness" : 2,
+      "borderColor" : "#0000007F",
+      "blur" : 40,
+      "roundness" : 1,
       "paddingVertical" : 10
     },
     "credit" : "Thanasis",
@@ -54,7 +54,7 @@
     },
     "scrollbar" : {
       "color" : "#000000FF",
-      "thickness" : 1
+      "thickness" : 0
     },
     "name" : "Clean Total"
   }
